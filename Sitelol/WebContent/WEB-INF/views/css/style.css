@@ -1,0 +1,105 @@
+*{
+	text-align: center; color: #ffc400
+
+}
+body{
+	background: #0D0D0D url("image/imagelol.jpg") fixed no-repeat center ;
+	background-size : contain;
+	text-shadow: 5px 5px 5px black;
+	
+}
+h1
+{
+	color: #ffc400
+	
+}
+h2
+{
+	color: #ffc400
+	
+}
+h3{
+	color: #ffc400
+}
+p{
+	color: #ffc400;
+	
+}
+.ref
+{
+	
+	color: #7DDEFF;
+
+}
+a
+{
+	color: #ffc400 ; text-decoration: none
+
+}
+
+.boite
+{
+	
+	width: 20%;
+	
+
+
+}
+
+.bordure{
+	border: 5px #ffc400 inset;
+	display: flex;
+
+
+}
+
+.connexion{
+	text-align: right; color: #ffc400
+}
+.boiteco
+{
+	
+	width: 20%;
+	border: 5px #ffc400 inset;
+	padding: 12px;
+
+
+    
+
+	
+	
+
+
+}
+.textadroite{
+	text-align: right;
+}
+
+.alignementco{
+
+	display: flex;
+	justify-content: space-around;
+	
+	
+	
+
+
+}
+.aligner{
+	text-align: center;
+}
+
+.acceuil{
+	text-align: left;
+}
+
+.boiteinscription{
+	
+
+	border: 5px #ffc400 inset;
+	padding: 12px;
+
+
+	
+    
+}
